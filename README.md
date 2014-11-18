@@ -1,4 +1,4 @@
-ojc(基于Node 简易压缩javascript和css工具)
+ojc(基于NodeJs压缩JS和css工具)
 ===
 
 optimize javascript and css代码工具包
