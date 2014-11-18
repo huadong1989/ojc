@@ -47,6 +47,7 @@ b)suffix为需要扫描文件的类型，如jsp、html、htm等等
 
 4、运行命令
 windows 用DOS命令行、linux用shell命令行进入到项目的根目录下，运行node build.js -o命令即可实现压缩合并功能
+如果在linux下配置别忘了下面这两行代码
 export NODE_PATH=/usr/local/lib/node_modules/  
 echo $NODE_PATH
 
